@@ -1,26 +1,16 @@
 ---
-layout:     post
-title:      Ubuntu 普通用户在自己目录下安装Tensorflow（无需管理员权限）
-subtitle:   自己动手丰衣足食
-date:       2018-11-22
-author:     Elon Yang
-header-img: img/post-bg-debug.png
-catalog: true
-tags:
-    - Tensorflow
-    - Python
-    - Ubuntu
+layout:     post   				    # 使用的布局（不需要改）
+title:      My First Post 				# 标题 
+subtitle:   Hello World, Hello Blog #副标题
+date:       2017-02-06 				# 时间
+author:     Elon Yang				# 作者
+header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
+catalog: true 						# 是否归档
+tags:								#标签
+    - 生活
 ---
 
+## Hey
+>这是我的第一篇博客。
 
->并不适合阅读的个人文档。
-
-# **git revert** 和 **git reset** 的区别
- 先看图：
- 
-![](https://github.com/ynulonger/ynulonger.github.io/blob/master/img/ubuntu_ls.png)
-
-**sourceTree** 中 **revert** 译为**`提交回滚`**，作用为忽略你指定的版本，然后提交一个新的版本。新的版本中已近删除了你所指定的版本。
-	
-
-
+进入你的博客主页，新的文章将会出现在你的主页上.
